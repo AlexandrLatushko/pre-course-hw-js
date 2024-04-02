@@ -18,7 +18,9 @@ switch (true) {
     console.log('50 на 50')
   default:
     break;
-}
+
+  }
+
 
 
 
