@@ -22,7 +22,9 @@ switch (true) {
   default:
     console.log('Другое условие');
     break;
+ 
   }
+
 
 
 
