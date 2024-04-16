@@ -37,4 +37,5 @@ for (let i = 0; i < users3.length; i++) {
     users3[i].isMarried = isMarried;
     
 }
+
 console.log(users3)
